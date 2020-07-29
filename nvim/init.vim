@@ -10,6 +10,7 @@ set smartindent
 set noswapfile
 set colorcolumn=80
 set rnu
+set nu
 
 call plug#begin('~/.vim/plugged')
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
