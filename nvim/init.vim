@@ -9,6 +9,7 @@ set smartcase
 set smartindent
 set noswapfile
 set colorcolumn=80
+set so=10
 set rnu
 set nu
 
